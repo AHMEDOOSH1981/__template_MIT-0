@@ -1,7 +1,13 @@
-# Project
+## My Project
 
-[TODO: EDIT ME]
+TODO: Fill this README out!
 
-## License Summary
+Be sure to:
 
-This sample code is made available under the MIT-0 license. See the LICENSE file.
+* Change the title in this README
+* Edit your repository description on GitHub
+
+## License
+
+This library is licensed under the MIT-0 License. See the LICENSE file.
+
